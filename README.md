@@ -1,0 +1,3 @@
+# emart-app
+This repository serves as an example of containerizing microservices using Docker.
+This project demonstrates the deployment of a microservices architecture using Docker containers. It contrasts the traditional monolithic approach with the modular and scalable nature of microservices. By containerizing each microservice, this repository showcases how to achieve better scalability, maintainability, and resource utilization in modern software development.
